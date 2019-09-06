@@ -1,12 +1,12 @@
-## Welcome to my GitHub Pages
+## :computer::heavy_check_mark: Welcome to my GitHub Pages :computer::heavy_check_mark:
 
 _Greetings y'all, welcome to my progress, practising Github page development_
 
 ### Patrick Grønvold - GitHub Pages
 
-# BIO #
+# BIO # ![Image of me drinking coffe, while writing codes](https://media1.giphy.com/media/7srpeY4TZMrO8/200w.webp?cid=790b761135707c2f51b45c96061aa15e14621992e7bcf7a9&rid=200w.webp)
 **_My name is Patrick. I am 25 years old and lives in Køge, Denmark.
-I love coffee and programming, how ever, I am a newbie at programming, PRO at drinking coffee :bowtie: :trollface:_**.
+I love coffee and programming, how ever, I am a newbie at programming, PRO at drinking coffee. Dayli activites of my life, includes, fitness, family, netflix. For a living I do commercial flight arrivals and departures.  :bowtie: :trollface:_**. 
 
 ## Header 2
 ### Header 3
