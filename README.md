@@ -1,14 +1,12 @@
 ## Welcome to my GitHub Pages
 
-Greetings y'all, welcome to my progress, practising Github page development
+_Greetings y'all, welcome to my progress, practising Github page development_
 
 ### Patrick Grønvold - GitHub Pages
 
-```markdown
-
-# BIO 
-**_ My name is Patrick. I am 25 years old and lives in Køge, Denmark.
-I love coffee and programming, how ever, I am a newbie at programming, PRO at drinking coffee :bowtie: :trollface: _**.
+# BIO #
+**_My name is Patrick. I am 25 years old and lives in Køge, Denmark.
+I love coffee and programming, how ever, I am a newbie at programming, PRO at drinking coffee :bowtie: :trollface:_**.
 
 ## Header 2
 ### Header 3
@@ -22,6 +20,7 @@ I love coffee and programming, how ever, I am a newbie at programming, PRO at dr
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```markdown
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
