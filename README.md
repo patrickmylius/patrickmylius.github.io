@@ -18,8 +18,8 @@ I love coffee and programming, how ever, I am a newbie at programming, PRO at dr
 
 **3. Rejse !** 
 
-![Image of tegnetavle](https://www.pricerunner.dk/product/640x640/1868934762/Wacom-Intuos-Small.jpg?c=0.7)
-![Image of java](https://static.javatpoint.com/images/core/java-features.png)
+![Image of tegnetavle](https://media0.giphy.com/media/9mLuI83JxQdSE/200w.webp?cid=790b76111f1f142aa7bf4736b6cb5250c0346e6749fd756d&rid=200w.webp)
+![Image of java](https://media0.giphy.com/media/uH7JvseKVMojS/200w.webp?cid=790b7611fa9a006453344ba51b29c2824c45c1b1d74e33cc&rid=200w.webp)
 ![Image of Rejse](https://media1.giphy.com/media/5xtDarqlsEW6F7F14Fq/200w.webp?cid=790b761108c5cec056772a010eab44c9f32c9ae201d997f7&rid=200w.webp)
 
 ### SOME BEGINNER CODE.
