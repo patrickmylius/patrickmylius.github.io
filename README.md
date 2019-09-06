@@ -9,18 +9,7 @@ _Greetings y'all, welcome to my progress, practising Github page development_
 **_My name is Patrick. I am 25 years old and lives in Denmark.
 I love coffee and programming, how ever, I am a newbie at programming, PRO at drinking coffee. Dayli activites of my life, includes, fitness, family, netflix. For a living I do commercial flight arrivals and departures._**
 
-#### SOMETHING VERY IMPORTANT 4 YOU 2 KNOW
-**_Soon to come, is my birthday and that is of course followed by a wishlist._**
-
-**1. PC Artboard !** 
-
-**2. ADOBE PACKAGE !** 
-
-**3. More TIME !** 
-
-![Image of Tegnetavle](https://animaster.com/wp-content/uploads/2018/02/after-10-12-art-design-college.jpg)
-![Image of ADOBE](https://static.adweek.com/adweek.com-prod/wp-content/uploads/2017/03/adobe-sensei-CONTENT-20171.jpg)
-![Image of More Time](https://images.fineartamerica.com/images-medium-large/grim-reaper-and-clock-granger.jpg)
+**_Motivation_**, 
 
 ### SOME BEGINNER CODE.
 
@@ -64,3 +53,16 @@ public class MyClass {
 }
 
 ```
+
+#### SOMETHING VERY IMPORTANT 4 YOU 2 KNOW
+**_Soon to come, is my birthday and that is of course followed by a wishlist._**
+
+**1. PC Artboard !** 
+
+**2. ADOBE PACKAGE !** 
+
+**3. More TIME !** 
+
+![Image of Tegnetavle](https://animaster.com/wp-content/uploads/2018/02/after-10-12-art-design-college.jpg)
+![Image of ADOBE](https://static.adweek.com/adweek.com-prod/wp-content/uploads/2017/03/adobe-sensei-CONTENT-20171.jpg)
+![Image of More Time](https://images.fineartamerica.com/images-medium-large/grim-reaper-and-clock-granger.jpg)
