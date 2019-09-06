@@ -1,8 +1,8 @@
 ## Welcome to my GitHub Pages
 
-Greetings y'all, welcome to my progress, practising webpage development
+Greetings y'all, welcome to my progress, practising Github page development
 
-### Markdown
+### Patrick Grønvold - GitHub Pages
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
