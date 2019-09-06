@@ -1,4 +1,4 @@
-## :computer::heavy_check_mark: Welcome to my GitHub Pages :computer::heavy_check_mark:
+## Welcome to my GitHub Pages
 
 _Greetings y'all, welcome to my progress, practising Github page development_
 
@@ -9,10 +9,8 @@ _Greetings y'all, welcome to my progress, practising Github page development_
 **_My name is Patrick. I am 25 years old and lives in Køge, Denmark.
 I love coffee and programming, how ever, I am a newbie at programming, PRO at drinking coffee. Dayli activites of my life, includes, fitness, family, netflix. For a living I do commercial flight arrivals and departures.  :bowtie: :trollface:_**. 
 
-## :arrow_right: SOMETHING VERY IMPORTANT 4 YOU 2 KNOW :arrow_left:	
+SOMETHING VERY IMPORTANT 4 YOU 2 KNOW
 _Soon to be comming, is my birthday and that is of course follow by a wishlist._
-
-_:arrow_down:LOOK DOWN:arrow_down:_
 
 **1. Tegnetavle !** 
 
