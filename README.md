@@ -10,7 +10,7 @@ _Greetings y'all, welcome to my progress, practising Github page development_
 I love coffee and programming, how ever, I am a newbie at programming, PRO at drinking coffee. Dayli activites of my life, includes, fitness, family, netflix. For a living I do commercial flight arrivals and departures.
 
 #### SOMETHING VERY IMPORTANT 4 YOU 2 KNOW
-**_Soon to come, is my birthday and that is of course followed by a wishlist._**
+_**Soon to come, is my birthday and that is of course followed by a wishlist._**
 
 **1. PC Artboard !** 
 
