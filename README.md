@@ -4,12 +4,12 @@ Greetings y'all, welcome to my progress, practising Github page development
 
 ### Patrick Grønvold - GitHub Pages
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
 
-# Header 1
+# BIO 
+**My name is Patrick. I am 25 years old and lives in Køge, Denmark.
+I love coffee and programming, how ever, I am a newbie at programming, PRO at drinking coffee :bowtie: :trollface:**.
+
 ## Header 2
 ### Header 3
 
