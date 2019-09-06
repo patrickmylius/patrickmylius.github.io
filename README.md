@@ -55,7 +55,7 @@ public class MyClass {
 ```
 
 #### SOMETHING VERY IMPORTANT 4 YOU 2 KNOW
-**_Soon to come, is my birthday and that is of course followed by a wishlist._**
+**Soon to come, is my birthday (_October Child_) and that is of course followed by a wishlist.**
 
 **1. PC Artboard !** 
 
