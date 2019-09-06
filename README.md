@@ -7,8 +7,8 @@ Greetings y'all, welcome to my progress, practising Github page development
 ```markdown
 
 # BIO 
-**_My name is Patrick. I am 25 years old and lives in Køge, Denmark.
-I love coffee and programming, how ever, I am a newbie at programming, PRO at drinking coffee :bowtie: :trollface:_**.
+**_ My name is Patrick. I am 25 years old and lives in Køge, Denmark.
+I love coffee and programming, how ever, I am a newbie at programming, PRO at drinking coffee :bowtie: :trollface: _**.
 
 ## Header 2
 ### Header 3
