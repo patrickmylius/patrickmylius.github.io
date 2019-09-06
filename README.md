@@ -9,8 +9,8 @@ _Greetings y'all, welcome to my progress, practising Github page development_
 **_My name is Patrick. I am 25 years old and lives in Køge, Denmark.
 I love coffee and programming, how ever, I am a newbie at programming, PRO at drinking coffee. Dayli activites of my life, includes, fitness, family, netflix. For a living I do commercial flight arrivals and departures.  :bowtie: :trollface:_**. 
 
-SOMETHING VERY IMPORTANT 4 YOU 2 KNOW
-_Soon to be comming, is my birthday and that is of course follow by a wishlist._
+#### SOMETHING VERY IMPORTANT 4 YOU 2 KNOW
+**_Soon to be comming, is my birthday and that is of course follow by a wishlist._**
 
 **1. Tegnetavle !** 
 
@@ -21,7 +21,8 @@ _Soon to be comming, is my birthday and that is of course follow by a wishlist._
 ![Image of tegnetavle](https://www.pricerunner.dk/product/640x640/1868934762/Wacom-Intuos-Small.jpg?c=0.7)
 ![Image of java](https://static.javatpoint.com/images/core/java-features.png)
 ![Image of kæreste](https://www.40plus.dk/images_v2/find-en-kaereste.jpg)
-### Header 3
+
+### SOME BEGINNER CODE.
 
 
 ```markdown
