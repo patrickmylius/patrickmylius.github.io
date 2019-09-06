@@ -28,23 +28,40 @@ _:arrow_down:LOOK DOWN:arrow_down:_
 
 ```markdown
 
+import java.util.Scanner;
+/**
+ * Developed by Patrick Grønvold (patr6996@edu.easj.dk)
+ * Zealand / www.zealand.dk
+ * 2019-06-09
+ */
+ 
+//class (Main) starting point
+public class MyClass {
+  //psvm - public static void main
+  public static void main(String[ ] args)
+  {
+    {
+      String name = "Patrick";
+      int age = 25;
+      double weight = 92.5;
+      char skilllevel = 'A';
+    }
+    // sout = System.out.println
+    System.out.println("Hello World, this is my first project");
+
+    System.out.println("Nu har jeg lært at system printe");
+
+    //Print uden linjeskift.
+    System.out.print("Printer ");
+    System.out.print("uden ");
+    System.out.print("linjeskift ");
+
+    //Input fra brugeren
+    Scanner s = new Scanner(System.in);
+    System.out.println("skriv dit input: ");
+    String input = s.next();
+    System.out.println("Du har skrevet " + input);
+  }
+}
+
 ```
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patrickmylius/patrickmylius.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
