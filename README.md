@@ -5,11 +5,10 @@ _Greetings y'all, welcome to my progress, practising Github page development_
 ### Patrick M. Grønvold - GitHub Pages
 # About me.
 
-### ![Image of me drinking coffe, while writing codes](https://media1.giphy.com/media/7srpeY4TZMrO8/200w.webp?cid=790b761135707c2f51b45c96061aa15e14621992e7bcf7a9&rid=200w.webp)
-**_My name is Patrick. I am 25 years old and lives in Denmark.
+### **_My name is Patrick. I am 25 years old and lives in Denmark.
 I love coffee and programming, how ever, I am a newbie at programming, PRO at drinking coffee. Dayli activites of my life, includes, fitness, family, netflix. For a living I do commercial flight arrivals and departures._**
 
-**_Motivation_**, 
+**_Motivation_** ![Image of me drinking coffe, while writing codes](https://media1.giphy.com/media/7srpeY4TZMrO8/200w.webp?cid=790b761135707c2f51b45c96061aa15e14621992e7bcf7a9&rid=200w.webp)
 
 ### SOME BEGINNER CODE.
 
