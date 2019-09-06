@@ -16,11 +16,11 @@ I love coffee and programming, how ever, I am a newbie at programming, PRO at dr
 
 **2. Java pakke !** 
 
-**3. Kæreste !** 
+**3. Rejse !** 
 
 ![Image of tegnetavle](https://www.pricerunner.dk/product/640x640/1868934762/Wacom-Intuos-Small.jpg?c=0.7)
 ![Image of java](https://static.javatpoint.com/images/core/java-features.png)
-![Image of kæreste](https://www.40plus.dk/images_v2/find-en-kaereste.jpg)
+![Image of Rejse](https://media1.giphy.com/media/5xtDarqlsEW6F7F14Fq/200w.webp?cid=790b761108c5cec056772a010eab44c9f32c9ae201d997f7&rid=200w.webp)
 
 ### SOME BEGINNER CODE.
 
