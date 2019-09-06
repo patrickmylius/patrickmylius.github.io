@@ -33,7 +33,7 @@ import java.util.Scanner;
  * Zealand / www.zealand.dk
  * 2019-06-09
  */
- 
+
 //class (Main) starting point
 public class MyClass {
   //psvm - public static void main
