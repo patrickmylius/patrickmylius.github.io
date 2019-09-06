@@ -19,7 +19,7 @@ I love coffee and programming, how ever, I am a newbie at programming, PRO at dr
 **3. More TIME !** 
 
 ![Image of Tegnetavle](https://animaster.com/wp-content/uploads/2018/02/after-10-12-art-design-college.jpg)
-![Image of ADOBE](https://www.log.com.tr/wp-content/uploads/2018/11/adobe-dan-black-friday-e-ozel-tum-uygulamalari-kapsayan-buyuk-creative-cloud-indirim.jpg)
+![Image of ADOBE](https://www.log.com.tr/wp-content/uploads/2018/11/adobe-dan-black-friday-e-ozel-tum-uygulamalari-kapsayan-buyuk-creative-cloud-indirim.jpghttps://static.adweek.com/adweek.com-prod/wp-content/uploads/2017/03/adobe-sensei-CONTENT-20171.jpg)
 ![Image of More Time](https://images.fineartamerica.com/images-medium-large/grim-reaper-and-clock-granger.jpg)
 
 ### SOME BEGINNER CODE.
