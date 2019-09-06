@@ -59,9 +59,9 @@ public class MyClass {
 
 **1. PC Artboard !** 
 
-**2. ADOBE PACKAGE !** 
+**2. Adobe package !** 
 
-**3. More TIME !** 
+**3. More TIME :D !** 
 
 ![Image of Tegnetavle](https://animaster.com/wp-content/uploads/2018/02/after-10-12-art-design-college.jpg)
 ![Image of ADOBE](https://static.adweek.com/adweek.com-prod/wp-content/uploads/2017/03/adobe-sensei-CONTENT-20171.jpg)
