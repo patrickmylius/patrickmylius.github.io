@@ -15,7 +15,7 @@ For me, studying this topic, doesn't feel like "studying", which is somthing I h
 _It has been a long wanted replacement for my earlier hobbies and for many years ive been self practising my skills in a related matter, (the kind I felt was possible, without a teacher or fellow students to push me past the blockades of learning).
 The kind of work I have experience with, are material and editing designs, PC Hardware knowledge as well as building them together into working PC. Apart from this, I feel very confident when doing cable manage ment and RGB designs._
 
-### _My Own Build_
+### _My Own Build (Clickable Vid)_
 [![](http://img.youtube.com/vi/Pk2hVpZywks/0.jpg)](http://www.youtube.com/watch?v=Pk2hVpZywks "Setup")
 
 
