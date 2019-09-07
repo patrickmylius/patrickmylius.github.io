@@ -9,9 +9,14 @@ _Greetings y'all, welcome to my progress, practising Github page development_
 **I love coffee and programming, how ever, I am a newbie at programming, PRO at drinking coffee. Dayli activites of my life, includes, fitness, family, netflix. For a living I do commercial flight arrivals and departures.**
 
 ![Image of me drinking coffe, while writing codes](https://media1.giphy.com/media/7srpeY4TZMrO8/200w.webp?cid=790b761135707c2f51b45c96061aa15e14621992e7bcf7a9&rid=200w.webp)
-**_<-----Motivation_** _Meh_
+**_<-----Motivation_** _Meh_ 
+_The reason i decided to study computer science, is due to my inner motivation. 
+For me, studying this topic, doesn't feel like "studying", which is somthing I have never felt before, with any kind of education. 
 
-### SOME BEGINNER CODE.
+_It has been a long wanted replacement for my earlier hobbies and for many years ive been self practising my skills in a related matter, (the kind I felt was possible, without a teacher or fellow students to push me past the blockades of learning).
+The kind of work I have experience with, are material and editing designs, PC Hardware knowledge as well as building them together into working PC. Apart from this, I feel very confident when doing cable manage ment and RGB designs._
+
+<iframe src="https://youtu.be/Pk2hVpZywks
 
 
 ```markdown
