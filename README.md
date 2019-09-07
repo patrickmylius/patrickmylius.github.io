@@ -54,14 +54,16 @@ public class MyClass {
 
 ```
 
+
+
 #### SOMETHING VERY IMPORTANT 4 YOU 2 KNOW
 **Soon to come, is my birthday (_October Child_) and that is of course followed by a wishlist.**
 
-**1. PC Artboard !** 
+- **PC Artboard ** 
 
-**2. Adobe package !** 
+- **Adobe package ** 
 
-**3. More TIME :D !** 
+- **More TIME :D ** 
 
 ![Image of Tegnetavle](https://animaster.com/wp-content/uploads/2018/02/after-10-12-art-design-college.jpg)
 ![Image of ADOBE](https://static.adweek.com/adweek.com-prod/wp-content/uploads/2017/03/adobe-sensei-CONTENT-20171.jpg)
