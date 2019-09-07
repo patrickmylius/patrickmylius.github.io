@@ -1,4 +1,4 @@
-## Welcome to my GitHub Pages
+## Welcome to Pallegrøns Homepage!
 
 _Greetings y'all, welcome to my progress, practising Github page development_
 
