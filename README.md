@@ -58,6 +58,119 @@ public class MyClass {
 }
 
 ```
+#### _Some beginner code_
+´´´
+public class Main {
+    public static void main(String[] args) {
+        Bodytype P1 = new Bodytype();
+        Bodytype P2 = new Bodytype();
+        Bodytype P3 = new Bodytype();
+
+
+        P1.setName("Lisa");
+        P2.setName("Patrick");
+        P3.setName("Simon");
+
+        P1.setLastName("Pedersen");
+        P2.setLastName("Grønvold");
+        P3.setLastName("Gove");
+
+        P1.setAge(29);
+        P2.setAge(25);
+        P3.setAge(20);
+
+        P1.setHeight(168);
+        P2.setHeight(189);
+        P3.setHeight(180);
+
+        P1.setWeight(49);
+        P2.setWeight(55);
+        P3.setWeight(95);
+
+        P1.setActivityPerWeek(2);
+        P2.setActivityPerWeek(4);
+        P3.setActivityPerWeek(3);
+
+
+
+        System.out.println("Deltagere i Test er" + " " + P1.getName() + " , " + P2.getName() + " og " + P3.getName());
+
+        System.out.println("Lisa's Data" + " " + P1.getName() + " " + P1.getLastName() + " " + "Alder" + " " + P1.getAge() + " " +   "Højde" + " " + P1.getHeight() +" " + "Vægt" + " " + P1.getWeight() + " " + "Aktivitets niveau" + " " + P1.getActivityPerWeek() );
+        System.out.println("Patricks Data" + " " + P2.getName() + " " + P2.getLastName() + " " + "Alder" + " " + P2.getAge() + " " + "Højde" + " " + P2.getHeight() +" " + "Vægt" + " " + P2.getWeight() + " " + "Aktivitets niveau" + " " + P2.getActivityPerWeek()  );
+        System.out.println("Simons fulde navn er" + " " + P3.getName() + " " + P3.getLastName() + " " + "Alder" + " " + P3.getAge() + " " + "Højde" + " " + P3.getHeight() +" " + "Vægt" + " " + P3.getWeight() + " " + "Aktivitets niveau" + " " + P3.getActivityPerWeek() );
+
+        int averageAge = (P1.getAge() + P2.getAge() + P3.getAge())/3;
+        double averageHeight = (P1.getHeight() + P2.getHeight() + P3.getHeight())/3;
+        double averageWeight = (P1.getWeight() + P2.getWeight() + P3.getWeight())/3;
+        int averageActivity = (P1.getActivityPerWeek() + P2.getActivityPerWeek() + P3.getActivityPerWeek())/3;
+
+        System.out.println("Average age is" + " " + averageAge);
+        System.out.println("Average weight is" + " " + averageWeight);
+        System.out.println("Average height is" + " " + averageHeight);
+        System.out.println("Average Activity per. week is" + " " + averageActivity);
+
+
+    }
+}
+
+public class Bodytype {
+
+    String name;
+    String lastName;
+    int age;
+    double height;
+    double  weight;
+    int activityPerWeek;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public double getHeight() {
+        return height;
+    }
+
+    public void setHeight(double height) {
+        this.height = height;
+    }
+
+    public double getWeight() {
+        return weight;
+    }
+
+    public void setWeight(double weight) {
+        this.weight = weight;
+    }
+
+    public int getActivityPerWeek() {
+        return activityPerWeek;
+    }
+
+    public void setActivityPerWeek(int activityPerWeek) {
+        this.activityPerWeek = activityPerWeek;
+    }
+}
+```
 
 
 
