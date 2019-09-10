@@ -59,7 +59,9 @@ public class MyClass {
 
 ```
 #### _Some beginner code_
-´´´
+
+```markdown
+
 public class Main {
     public static void main(String[] args) {
         Bodytype P1 = new Bodytype();
@@ -170,6 +172,7 @@ public class Bodytype {
         this.activityPerWeek = activityPerWeek;
     }
 }
+
 ```
 
 
