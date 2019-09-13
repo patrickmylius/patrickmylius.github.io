@@ -7,7 +7,7 @@
 
 ![Image of Clown](https://media2.giphy.com/media/JtEaylOQeRsfS/200.webp?cid=790b76112d5d5848dd273656ea7c9864b236787a4016e5a2&rid=200.webp)
 
-### Mine krav for deltagelse!
+### Krav for deltagelse!
 
 - [x] Påklædning passende til vejret
 - [x] Appetit
