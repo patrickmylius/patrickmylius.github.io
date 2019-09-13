@@ -11,5 +11,5 @@
 ### Krav for deltagelse!
 
 - [x] Påklædning passende til vejret
-- [x] Appetit
-- [x] Dig
+- [x] Stor appetit
+- [x] Højt humør :D
