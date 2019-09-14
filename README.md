@@ -18,6 +18,7 @@ The kind of work I have experience with, are material and editing designs, PC Ha
 ### _My Own Build (Clickable Vid)_
 [![](http://img.youtube.com/vi/Pk2hVpZywks/0.jpg)](http://www.youtube.com/watch?v=Pk2hVpZywks "Setup")
 
+#### _Some beginner codes_
 
 ```markdown
 
@@ -58,7 +59,6 @@ public class MyClass {
 }
 
 ```
-#### _Some beginner code_
 
 ```markdown
 
